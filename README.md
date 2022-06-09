@@ -1,5 +1,5 @@
 # image-gallery
-이미지 갤러리 구현 데모
+이미지 갤러리 구현 데모 https://github.com/six6na/image-gallery/tree/main/image-gallery
 
 ## 기능소개
 - 하단의 썸네일 이미지를 클릭하면 메인이미지가 변경되는 간단한 갤러리
